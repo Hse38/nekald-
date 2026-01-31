@@ -1,0 +1,84 @@
+[
+  {
+    "slug": "ramazan",
+    "title": "Ramazan",
+    "description": "Ramazan ayına kaç gün kaldı? İslam takvimine göre Ramazan başlangıcı.",
+    "type": "islamic",
+    "yearKey": "ramazan",
+    "searchKeywords": ["ramazan kaç gün", "ramazana kaç gün kaldı"]
+  },
+  {
+    "slug": "yks",
+    "title": "YKS",
+    "description": "Yükseköğretim Kurumları Sınavı'na (YKS) kaç gün kaldı?",
+    "type": "fixed",
+    "date": "2026-06-13",
+    "searchKeywords": ["YKS kaç gün", "YKSye kaç gün kaldı", "üniversite sınavı"]
+  },
+  {
+    "slug": "secim",
+    "title": "Yerel Seçimler",
+    "description": "2026 yerel seçimlerine kaç gün kaldı?",
+    "type": "fixed",
+    "date": "2026-03-29",
+    "searchKeywords": ["seçime kaç gün", "yerel seçim ne zaman"]
+  },
+  {
+    "slug": "okul-acilisi",
+    "title": "Okulların Açılışı",
+    "description": "Okullar ne zaman açılıyor? Yeni eğitim dönemi tarihi.",
+    "type": "yearly",
+    "month": 9,
+    "day": 15,
+    "searchKeywords": ["okullar ne zaman açılıyor", "okul açılışı"]
+  },
+  {
+    "slug": "yilbasi",
+    "title": "Yılbaşı",
+    "description": "Yılbaşına (1 Ocak) kaç gün kaldı?",
+    "type": "yearly",
+    "month": 1,
+    "day": 1,
+    "searchKeywords": ["yılbaşına kaç gün", "yeni yıl"]
+  },
+  {
+    "slug": "kurban-bayrami",
+    "title": "Kurban Bayramı",
+    "description": "Kurban Bayramı'na kaç gün kaldı?",
+    "type": "islamic",
+    "yearKey": "kurban",
+    "searchKeywords": ["kurban bayramı kaç gün", "kurbana kaç gün kaldı"]
+  },
+  {
+    "slug": "askerlik",
+    "title": "Askerlik",
+    "description": "Askerlik tarihinize kaç gün kaldı? Tahmini gün hesaplama.",
+    "type": "user",
+    "searchKeywords": ["askerliğe kaç gün kaldı", "askerlik tarihi"]
+  },
+  {
+    "slug": "dogum",
+    "title": "Doğum Günü",
+    "description": "Doğum gününüze veya belirttiğiniz tarihe kaç gün kaldı?",
+    "type": "user",
+    "searchKeywords": ["doğuma kaç gün kaldı", "doğum günü sayacı"]
+  },
+  {
+    "slug": "valentine",
+    "title": "Sevgililer Günü",
+    "description": "14 Şubat Sevgililer Günü'ne kaç gün kaldı?",
+    "type": "yearly",
+    "month": 2,
+    "day": 14,
+    "searchKeywords": ["sevgililer günü kaç gün", "14 şubat"]
+  },
+  {
+    "slug": "cumhuriyet",
+    "title": "Cumhuriyet Bayramı",
+    "description": "29 Ekim Cumhuriyet Bayramı'na kaç gün kaldı?",
+    "type": "yearly",
+    "month": 10,
+    "day": 29,
+    "searchKeywords": ["cumhuriyet bayramı", "29 ekim kaç gün"]
+  }
+]
